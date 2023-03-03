@@ -19,7 +19,7 @@ Click Star:)
 
 <pre><code>sudo apt install docker.io</code></pre>
 
-# For Termux
+# For Termux (Only For Root)
 
 <pre><code>pkg update && pkg upgrade</code></pre>
 
