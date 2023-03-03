@@ -19,6 +19,12 @@ Click Star:)
 
 <pre><code>sudo apt install docker.io</code></pre>
 
+# For Termux
+
+<pre><code>pkg update && pkg upgrade</code></pre>
+
+<pre><code>pkg install docker.io</code></pre>
+
 # Device Tested
 
 Linux/Ubuntu/Debian✅
