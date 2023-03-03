@@ -23,7 +23,9 @@ Click Star:)
 
 <pre><code>pkg update && pkg upgrade</code></pre>
 
-<pre><code>pkg install docker.io</code></pre>
+<pre><code>pkg install root-repo</code></pre>
+
+<pre><code>pkg install docker</code></pre>
 
 # Device Tested
 
