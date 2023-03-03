@@ -31,4 +31,6 @@ Click Star:)
 
 Linux/Ubuntu/Debian✅
 
-Userland/Termux✅
+Userland✅
+
+Termux??
