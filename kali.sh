@@ -4,7 +4,6 @@ wget -O ngrok.sh https://raw.githubusercontent.com/RezkyIt/kali-linux-rdp/main/n
 chmod +x ngrok.sh
 ./ngrok.sh
 clear
-
 echo "======================="
 
 echo choose ngrok region
